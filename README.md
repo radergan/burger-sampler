@@ -12,6 +12,8 @@ Keep track of your burgers.
 ## About
 This app demonstrates the basic utilization of Handlebars.js for templating.
 
+[![Go to the app](app.gif)](http://burger-testing.herokuapp.com/)
+
 ## Credits
 Project created by @Radergan. 
 
